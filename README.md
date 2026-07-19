@@ -1,4 +1,4 @@
-# JAS — Janus-Aethon Security Layer
+# JAS 
 
 JAS ist ein **lokales Werkzeug**, das personenbezogene Daten in anwaltlichen
 Schriftsätzen durch Platzhalter ersetzt, bevor der Text an eine KI weitergegeben
